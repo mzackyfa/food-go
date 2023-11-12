@@ -1,4 +1,4 @@
-### ✨ try
+### try
 Modules :
 ```go
 module example.com/main
