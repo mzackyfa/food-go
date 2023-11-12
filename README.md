@@ -1,4 +1,10 @@
 ### ✨ try
+Modules :
+```go
+module example.com/main
+
+go 1.21.3
+```
 Preview Code 👌 :
 ```go
 package main
