@@ -7,4 +7,6 @@ go 1.21.3
 
 ```
 Output :
+```img
 ![image](https://github.com/zahsey/try/blob/main/Output.PNG?raw=true)
+```
